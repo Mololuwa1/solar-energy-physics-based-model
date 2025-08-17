@@ -5,7 +5,7 @@ This module provides high-precision solar position calculations optimized for UK
 Implements the Solar Position Algorithm (SPA) with corrections for atmospheric refraction and 
 UK-specific atmospheric conditions.
 
-Author: Manus AI
+Author: Mololuwa Obafemi-Moses
 Date: 2025-08-16
 """
 
