@@ -4,7 +4,7 @@ UK Solar Farm Data Pipeline
 Comprehensive data processing pipeline for UK solar farms, including data ingestion,
 validation, preprocessing, and feature engineering optimized for physics-based ML models.
 
-Author: Manus AI
+Author: Moses
 Date: 2025-08-16
 """
 
