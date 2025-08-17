@@ -4,7 +4,7 @@ Training Module for Physics-Informed UK Solar Models
 Comprehensive training framework with physics constraint optimization,
 adaptive learning, and UK-specific validation metrics.
 
-Author: Manus AI
+Author: Mololuwa Obafemi-Moses
 Date: 2025-08-16
 """
 
