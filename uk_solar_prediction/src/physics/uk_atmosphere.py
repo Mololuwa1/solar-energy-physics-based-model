@@ -5,7 +5,7 @@ This module implements atmospheric models specifically calibrated for UK conditi
 including clear sky models, atmospheric transparency calculations, and weather pattern
 analysis optimized for British Isles meteorology.
 
-Author: Manus AI
+Author: Mololuwa Obafemi-Moses
 Date: 2025-08-16
 """
 
