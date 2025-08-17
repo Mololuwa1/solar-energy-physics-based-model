@@ -5,7 +5,7 @@ This module implements a sophisticated physics-informed neural network (PINN)
 that incorporates atmospheric physics, solar radiation models, and UK-specific
 constraints for accurate solar energy forecasting.
 
-Author: Manus AI
+Author: Mololuwa Obafemi-Moses
 Date: 2025-08-16
 """
 
