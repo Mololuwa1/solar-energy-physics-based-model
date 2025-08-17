@@ -1,0 +1,62 @@
+# Core ML and Scientific Computing
+torch>=1.12.0
+torchvision>=0.13.0
+numpy>=1.21.0
+pandas>=1.4.0
+scikit-learn>=1.1.0
+scipy>=1.8.0
+
+# Physics and Solar Modeling
+pvlib>=0.9.5
+ephem>=4.1.3
+astral>=2.2
+
+# Data Processing and Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.8.0
+xarray>=0.20.0
+netCDF4>=1.6.0
+
+# AWS and Cloud Services
+boto3>=1.24.0
+sagemaker>=2.100.0
+awscli>=1.25.0
+
+# API and Web Services
+fastapi>=0.78.0
+uvicorn>=0.18.0
+requests>=2.28.0
+pydantic>=1.9.0
+
+# Configuration and Utilities
+pyyaml>=6.0
+python-dotenv>=0.20.0
+click>=8.1.0
+tqdm>=4.64.0
+
+# Testing
+pytest>=7.1.0
+pytest-cov>=3.0.0
+pytest-mock>=3.8.0
+
+# Code Quality
+black>=22.6.0
+flake8>=5.0.0
+isort>=5.10.0
+mypy>=0.971
+
+# Jupyter and Development
+jupyter>=1.0.0
+ipykernel>=6.15.0
+notebook>=6.4.0
+
+# Time Series and Forecasting
+statsmodels>=0.13.0
+pmdarima>=1.8.0
+
+# Monitoring and Logging
+wandb>=0.12.0
+mlflow>=1.27.0
+loguru>=0.6.0
+
